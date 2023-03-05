@@ -6,7 +6,7 @@
       "job_type": "basic",
       "job_status": "Completed",
       "crew_name": "John Smith",
-      "crew_photo_url": "https://example.com/john-smith.jpg",
+      "crew_photo_url": "https://i.pravatar.cc/50",
       "address": "15, Jalan Raja Chulan",
       "city": "Kuala Lumpur",
       "state": "Kuala Lumpur"
@@ -17,7 +17,7 @@
       "job_type": "basic",
       "job_status": "Pending",
       "crew_name": "Jane Doe",
-      "crew_photo_url": "https://example.com/jane-doe.jpg",
+      "crew_photo_url": "https://i.pravatar.cc/50",
       "address": "8, Lebuh Carnavon",
       "city": "George Town",
       "state": "Penang"
@@ -28,7 +28,7 @@
       "job_type": "basic",
       "job_status": "Cancelled",
       "crew_name": "Bob Johnson",
-      "crew_photo_url": "https://example.com/bob-johnson.jpg",
+      "crew_photo_url": "https://i.pravatar.cc/50",
       "address": "2, Jalan Bukit Meldrum",
       "city": "Johor Bahru",
       "state": "Johor"
