@@ -1,6 +1,7 @@
 {
   "bookings": [
     {
+      "id" :  103,    
       "date": "2022-03-01 09:00:00",
       "hours": 4,
       "job_type": "basic",
@@ -12,6 +13,7 @@
       "state": "Kuala Lumpur"
     },
     {
+      "id" :  104,    
       "date": "2022-03-02 14:00:00",
       "hours": 4,
       "job_type": "basic",
@@ -23,6 +25,7 @@
       "state": "Penang"
     },
     {
+      "id" :  105,    
       "date": "2022-03-03 09:00:00",
       "hours": 4,
       "job_type": "basic",
