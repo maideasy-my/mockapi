@@ -1,0 +1,37 @@
+{
+  "bookings": [
+    {
+      "date": "2022-03-01 09:00:00",
+      "hours": 4,
+      "job_type": "basic",
+      "job_status": "Completed",
+      "crew_name": "John Smith",
+      "crew_photo_url": "https://example.com/john-smith.jpg",
+      "address": "15, Jalan Raja Chulan",
+      "city": "Kuala Lumpur",
+      "state": "Kuala Lumpur"
+    },
+    {
+      "date": "2022-03-02 14:00:00",
+      "hours": 4,
+      "job_type": "basic",
+      "job_status": "Pending",
+      "crew_name": "Jane Doe",
+      "crew_photo_url": "https://example.com/jane-doe.jpg",
+      "address": "8, Lebuh Carnavon",
+      "city": "George Town",
+      "state": "Penang"
+    },
+    {
+      "date": "2022-03-03 09:00:00",
+      "hours": 4,
+      "job_type": "basic",
+      "job_status": "Cancelled",
+      "crew_name": "Bob Johnson",
+      "crew_photo_url": "https://example.com/bob-johnson.jpg",
+      "address": "2, Jalan Bukit Meldrum",
+      "city": "Johor Bahru",
+      "state": "Johor"
+    }
+  ]
+}
