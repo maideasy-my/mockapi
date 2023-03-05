@@ -1,0 +1,12 @@
+{
+      "id" :  104,    
+      "date": "2022-03-02 14:00:00",
+      "hours": 4,
+      "job_type": "basic",
+      "job_status": "Pending",
+      "crew_name": "Jane Doe",
+      "crew_photo_url": "https://i.pravatar.cc/50",
+      "address": "8, Lebuh Carnavon",
+      "city": "George Town",
+      "state": "Penang"
+    }
